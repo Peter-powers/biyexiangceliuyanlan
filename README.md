@@ -53,9 +53,10 @@ api类别|功能|输入|输出
 #### 人脸检测比较
 平台名称|图片url|识别人脸数量|本来人脸数量
 :--|:--|:--|:--
-face++|https://wx4.sinaimg.cn/large/0078VvOgly1ft7c36dlr6j308k05pdg9.jpg|13|15
+face++|![face++人脸检索实例](face++人脸检索实例.png)|13|15
 百度|https://wx4.sinaimg.cn/large/0078VvOgly1ft7c36dlr6j308k05pdg9.jpg|10|15
 
+![face++人脸检索实例](face++人脸检索实例.png)
 
 #### 人脸对比比较
 #### 声纹识别比较
