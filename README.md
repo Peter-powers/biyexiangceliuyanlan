@@ -173,7 +173,7 @@ face++收费标准：
 ### 原型3.原型文档
 
 
-<img src='原型gif图.gif',alt="原型">
+<img src="原型gif图.gif" alt="原型">
 
 我已将axure文档上传
 
