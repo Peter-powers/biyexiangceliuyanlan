@@ -83,11 +83,13 @@ face++|![face++人脸对比1](face++人脸对比1.png)|63%|![face++人脸对比2
 
 一、获得权限，告知规则和注意事项
 
-![复刻声音名额](复刻声音名额.jpg)
+<div align="center">
+<img src="复刻声音名额.jpg" height="330" width="190" >
 
-![规则](规则.jpg)
+<img src="规则.jpg" height="330" width="190" >
 
-![注意事项](注意事项.jpg)
+<img src="注意事项.jpg" height="330" width="190" >
+</div>
 
 二、根据文本进行录音
 ![短文](短文.jpg)
