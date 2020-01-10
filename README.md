@@ -92,9 +92,11 @@ face++|![face++人脸对比1](face++人脸对比1.png)|63%|![face++人脸对比2
 </div>
 
 二、根据文本进行录音
+
 <img src="短文.jpg" height="330" width="190" >
 
 三、等待语音合成，最终反馈
+
 <img src="声音生成.jpg" height="330" width="190" >
 
 
