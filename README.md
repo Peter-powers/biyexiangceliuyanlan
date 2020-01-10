@@ -124,11 +124,9 @@ face++|![face++人脸对比1](face++人脸对比1.png)|63%|![face++人脸对比2
 #### 收费标准
 
 百度收费标准：
-<div align="center">
-<img src="百度人脸检索收费.png" height="330" width="190" >
 
-<img src="百度人脸对比收费.png" height="330" width="190" >
-</div>
+![百度人脸检索收费](百度人脸检索收费.png)
+![百度人脸对比收费](百度人脸对比收费.png)
 
 face++收费标准：
 ![face++人脸识别收费](face++人脸识别收费.png)
@@ -137,11 +135,8 @@ face++收费标准：
 ![科大讯飞语音合成收费](科大讯飞语音合成收费.png)
 
 微软收费标准：
-<div align="center">
-<img src="免费.png" height="330" width="190" >
-
-<img src="非免费.png" height="330" width="190" >
-</div>
+![免费](免费.png)
+![非免费](非免费.png)
 
 经过多方面的考虑，目前在人脸识别上统一使用face++的api和在语音合成方面使用科大讯飞的服务是最优质的选择。
 
